@@ -1,0 +1,26 @@
+Switchbox3
+
+Auto		9
+Master On	4
+Master Off	3
+Rate Up		6
+Rate Down	5
+Work Switch	0
+
+Switch 1	21
+Switch 2	20
+Switch 3	19
+Switch 4	18
+Switch 5	14
+Switch 6	15
+Switch 7	16
+Switch 8	17
+
+Switch 9	0
+Switch 10	0
+Switch 11	0
+Switch 12	0
+Switch 13	0
+Switch 14	0
+Switch 15	0
+Switch 16	0
