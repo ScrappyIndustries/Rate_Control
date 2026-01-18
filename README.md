@@ -33,7 +33,7 @@
 - mostly surface mount parts
 - can control two rates and 7-14 sections
 	- (2) DRV8870 motor drivers with reversible outputs for rates
-	- (7) DRV8870 motor drivers for either 7 reversible (motorized ball valve) outputs or 14 single ended (high or low) section outputs
+	- (7) DRV8870 motor drivers for 7 reversible (motorized ball valve) outputs 
 - (4) 5V analog inputs (or 2 differential inputs)
 - (2) optically isolated digital (rate/pulse) inputs, up to 12V
 - RS485 chip & header
